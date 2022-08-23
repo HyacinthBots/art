@@ -16,3 +16,4 @@ The main branding files are icons and banners under 5 different background colou
 |:--------|:-------|:------:|:-----------:|:------------:|
 | Banners | 1920px | 760px  | 1920x760px  |    48:19     |
 | Icons   | 1024px | 1024px | 1024x1024px |     1:1      |
+| Patreon | 1600px | 400px  | 1600x400px  |     4:1      |
