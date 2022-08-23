@@ -6,11 +6,9 @@ The main branding files are icons and banners under 5 different background colou
 
 ### Directory Structure
 
-* `./Black`: Contains all the branding with a Black Background
-* `./Charcoal`: Contains all the branding with a Charcoal Background
-* `./Transparent Black`: Contains all the branding with a Transparent Black Background
-* `./Transparent White`: Contains all the branding with a Transparent White Background
-* `./White`: Contains all the branding with a White Background
+* `./banners`: Contains all the branding banners.
+* `./icons`: Contains all the branding icons.
+* `./patreon`: Contains branding specific to patreon, due to wierd size requirements.
 
 ### Image sizes
 
